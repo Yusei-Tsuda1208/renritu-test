@@ -1,0 +1,31 @@
+.mass {
+    width:40px;
+    height:25px;
+    display: inline-block;
+}
+
+.mass2{
+    width:40px;
+    height:25px;
+    margin-left:57px;
+    display: inline-block;
+}
+
+.mod{
+    font-size:20px;
+    line-height: 0;
+    display: inline-block;
+}
+
+p{
+    display: inline-block;
+    font-size:20px;
+    line-height: 0;
+    margin-left:20px;
+}
+
+.equal {
+    font-size:40px;
+    line-height: 0;
+    margin-top:0px;
+}
